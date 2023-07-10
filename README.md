@@ -1,5 +1,5 @@
 # Students REST API
-This project is a simple API I'm building to help myself get the hang of building REST APIs, as well as scraping and visualizing their metrics.
+This is a project I'm building to help myself get the hang of building REST APIs, as well as scraping and visualizing their metrics.
 To build the API itself, I'm using Java Spring and following a YouTube tutorial by AmigosCode. For metrics logging and visualization, I used Prometheus and Grafana, respsectively.
 
 The API 
